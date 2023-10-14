@@ -1,13 +1,12 @@
 import "./App.css";
+import { PokeConsult } from "./Pages/PokeConsult/PokeConsult";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Learn React</h1>
-      </header>
+      <PokeConsult />
     </div>
   );
-}
+};
 
 export default App;
