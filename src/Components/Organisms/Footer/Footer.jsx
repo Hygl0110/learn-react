@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <footer>
         <label>footer:</label>
-        <p>PoqueQuery by: Daniel Cardona</p>
+        <p>PokeQuery by: Daniel Cardona</p>
       </footer>
     </>
   );
