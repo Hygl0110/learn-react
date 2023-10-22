@@ -1,10 +1,10 @@
 import "./App.css";
-import { PokeConsult } from "./Pages/PokeConsult/PokeConsult";
+import PokeQuery from "./Components/Pages/PokeQuery/PokeQuery";
 
 const App = () => {
   return (
-    <div className="App">
-      <PokeConsult />
+    <div className="app">
+      <PokeQuery />
     </div>
   );
 };
